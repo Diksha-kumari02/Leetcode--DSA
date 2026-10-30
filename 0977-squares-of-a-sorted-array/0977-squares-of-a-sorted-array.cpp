@@ -12,7 +12,7 @@ public:
          else{
             ans[i]=nums[right]*nums[right];
             right--;
-        }
+         }
        }
        return ans;
     }
